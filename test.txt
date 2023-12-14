@@ -1,0 +1,7 @@
+class Hello
+{
+public ststic void main(String args[])
+{
+system.out.println("This is my first program");
+}
+}
